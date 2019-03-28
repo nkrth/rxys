@@ -22,6 +22,8 @@ rxys.sample()
 This works on Python 3.7.x and backward compatibility is not supported.
 If this doesn't work, our PyPI is broken. It will be up shortly.
 
+The current instance of the package is available at: https://pypi.org/project/rxys/
+
 ## Related
 Easier K-Means Movie Recommender: https://github.com/xueharry/CS51-Final-Project/tree/master/code 
 This project is related to https://github.com/NicolasHug/Surprise and has implementations like Amazon Product Recommendations, Facebook Friend Suggestions and Book Suggestions as in https://github.com/dorukkilitcioglu/books2rec
